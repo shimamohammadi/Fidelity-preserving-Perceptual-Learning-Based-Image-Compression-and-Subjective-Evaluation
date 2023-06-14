@@ -1,6 +1,6 @@
 # Fidelity-preserving Perceptual Learning-Based Image Compression and Subjective Evaluation
 
-<<<<<<< HEAD
+
 ### This dataset contains the folowwing information:
 
    ## A directory containing crop images:
@@ -12,20 +12,7 @@
         A subdirectory containing LBIC-PO
         A subdirectory containing LBIC-CO  
         A subdirectory containing Ref    
-=======
-This dataset contains the folowwing information:
-
-   A directory containing crop images:
-        <br /> A subdirectory containing LBIC-PO
-        <br /> A subdirectory containing LBIC-CO  
-         A subdirectory containing Ref  
         
-   A directory containing full images:
-        <br /> A subdirectory containing LBIC-PO
-        <br /> A subdirectory containing LBIC-CO  
-         A subdirectory containing Ref    
->>>>>>> 0eb9caa059c6587a4804f804f7c4b5a0930ef8fb
-
     The "LBIC-CO" refers to the learning-based codec without any perceptual optimization techniques applied.
     The "LBIC-PO" refers to the learning-based codec with perceptual optimization techniques applied.
 
