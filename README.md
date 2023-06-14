@@ -1,12 +1,20 @@
-# Perceptual-Optimization-in-Learning-Based-Image-Compression
+# Fidelity-preserving Perceptual Learning-Based Image Compression and Subjective Evaluation
 
-The dataset folder in the repository has three sub-folders named LBIC-CO, LBIC-PO, and reference. These sub-folders likely contain different sets of data related to the evaluation.
+### This dataset contains the folowwing information:
 
-The "LBIC-CO" sub-folder contains data related to the learning-based codec without any perceptual optimization techniques applied.
+   ## A directory containing crop images:
+        A subdirectory containing LBIC-PO
+        A subdirectory containing LBIC-CO  
+        A subdirectory containing Ref  
+        
+   ## A directory containing full images:
+        A subdirectory containing LBIC-PO
+        A subdirectory containing LBIC-CO  
+        A subdirectory containing Ref    
 
-The "LBIC-PO" sub-folder contains data related to the learning-based codec with perceptual optimization techniques applied.
+    The "LBIC-CO" refers to the learning-based codec without any perceptual optimization techniques applied.
+    The "LBIC-PO" refers to the learning-based codec with perceptual optimization techniques applied.
 
-The "reference" sub-folder include reference data or the uncompressed images.
 
 # Citation
 
