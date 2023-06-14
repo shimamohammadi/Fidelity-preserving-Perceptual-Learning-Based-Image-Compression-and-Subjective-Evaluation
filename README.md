@@ -12,9 +12,9 @@
         A subdirectory containing LBIC-PO
         A subdirectory containing LBIC-CO  
         A subdirectory containing Ref    
-        
-    The "LBIC-CO" refers to the learning-based codec without any perceptual optimization techniques applied.
-    The "LBIC-PO" refers to the learning-based codec with perceptual optimization techniques applied.
+
+The "LBIC-CO" refers to the learning-based codec without any perceptual optimization techniques applied.
+The "LBIC-PO" refers to the learning-based codec with perceptual optimization techniques applied.
 
 
 # Citation
