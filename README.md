@@ -1,4 +1,4 @@
-# Fidelity-preserving Perceptual Learning-Based Image Compression and Subjective Evaluation
+# Fidelity-preserving Learning-Based Image Compression: Loss Function and Subjective Evaluation Methodology
 
 
 ### This dataset contains the folowwing information:
