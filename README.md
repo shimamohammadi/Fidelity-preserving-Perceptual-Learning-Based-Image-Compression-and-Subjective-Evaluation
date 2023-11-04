@@ -3,9 +3,10 @@
 This repository contains the results of the subjective tests conducted in the experiment.
 
 Cropped images used in the subjective test
-LBIC-PO: The "LBIC-PO" refers to the learning-based codec with perceptual optimization techniques applied.
-LBIC-CO: The "LBIC-CO" refers to the learning-based codec without any perceptual optimization techniques applied.
-Reference: The uncompressed reference images
+
+- LBIC-PO: The "LBIC-PO" refers to the learning-based codec with perceptual optimization techniques applied.
+- LBIC-CO: The "LBIC-CO" refers to the learning-based codec without any perceptual optimization techniques applied.
+- Reference: The uncompressed reference images
 
 The subjective results is available in the preference.csv file.
 
