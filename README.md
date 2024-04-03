@@ -15,6 +15,15 @@ The subjective results is available in the preference.csv file.
 If you find this repository useful for your research, please use the following.
 
 ```
+@INPROCEEDINGS{10402691,
+  author={Mohammadi, Shima and Wu, Yaojun and Ascenso, João},
+  booktitle={2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)}, 
+  title={Fidelity-preserving Learning-Based Image Compression: Loss Function and Subjective Evaluation Methodology}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/VCIP59821.2023.10402691}}
 
 ```
 
